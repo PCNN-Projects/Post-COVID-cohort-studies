@@ -16,7 +16,7 @@ For questions, feedback, or collaboration opportunities, please reach out to:
 
 **Dana Rouland**  
 Junior Researcher
-Dept. of Primary anc Community Care
+Dept. of Primary and Community Care
 Radboud University Medical Center (RadboudUMC)
 📧 dana.rouland@radboudumc.nl 
 
