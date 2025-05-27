@@ -6,7 +6,8 @@ This repository contains an overview of Dutch post-COVID cohort studies. Metadat
 
 ## 💡 Notes
 
-- This overview is not the final version, as new studies will be added to the list and certain studies could be removed from the list if deemed not suitable for this overview. 
+- This overview is not the final version, as new studies will be added to the list and certain studies could be removed from the list if deemed not suitable for this overview.
+- The list of cohorts is accompanied with corresponding email addresses that can be contacted for further questions about the study. 
 
 ---
 
