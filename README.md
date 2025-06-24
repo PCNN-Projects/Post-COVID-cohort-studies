@@ -8,15 +8,12 @@ This repository contains an overview of Dutch post-COVID cohort studies. Metadat
 
 - This overview is not the final version, as new studies will be added to the list and certain studies could be removed from the list if deemed not suitable for this overview.
 - The list of cohorts is accompanied with corresponding email addresses that can be contacted for further questions about the study.
-- Not all studies have been specifically designed to study post-COVID. Some studies were conducted to study COVID-19 and have collected longterm data on outcomes, making it possible to extract post-COVID data. These studies are coloured orange.
+- Not all studies have been specifically designed to study post-COVID. Some studies were conducted to study COVID-19 and have collected longterm data on outcomes, making it possible to extract post-COVID data. These studies are coloured orange. 
 
 ## Legenda
 
-🔴 **Rood** – Kritiek op methodologie  
-🟢 **Groen** – Sterk bewijs voor de hypothese  
-🔵 **Blauw** – Ondersteunende context  
-🟡 **Geel** – Twijfelachtig / mixed findings  
-
+🔵 **Blue** – Studies  with children as the target group.
+🟠 **Orange** – COVID-19 studies with longterm data collection.
 
 ---
 
