@@ -28,9 +28,8 @@ General PCNN e-mailaddress
 OR 
 
 **Dana Rouland**  
-Junior Researcher 
-Dept. of Primary and Community Care 
-Radboud University Medical Center (RadboudUMC) 
+Junior Researcher  
+Dept. of Primary and Community Care, Radboud University Medical Center (RadboudUMC)  
 📧 dana.rouland@radboudumc.nl  
 
 ---
