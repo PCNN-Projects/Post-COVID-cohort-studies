@@ -33,8 +33,6 @@ Dept. of Primary and Community Care
 Radboud University Medical Center (RadboudUMC)
 📧 dana.rouland@radboudumc.nl 
 
-**
-
 
 
 
