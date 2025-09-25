@@ -25,8 +25,6 @@ For questions, feedback, or collaboration opportunities, please state in your e-
 General PCNN e-mailaddress 
 📧pcnn@lumc.nl
 
-OR 
-
 **Dana Rouland**  
 Junior Researcher
 Dept. of Primary and Community Care
