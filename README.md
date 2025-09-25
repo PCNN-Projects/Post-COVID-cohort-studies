@@ -21,16 +21,17 @@ This repository contains an overview of Dutch post-COVID cohort studies. Metadat
 
 For questions, feedback, or collaboration opportunities, please state in your e-mail your specific question, your name and e-mailadress, and the project your question relates to, and reach out to:
 
-**PCNN core team**
-General PCNN e-mailaddress 
-📧pcnn@lumc.nl
+**PCNN core team**  
+General PCNN e-mailaddress  
+📧pcnn@lumc.nl 
+
+OR 
 
 **Dana Rouland**  
-Junior Researcher
-Dept. of Primary and Community Care
-Radboud University Medical Center (RadboudUMC)
-📧 dana.rouland@radboudumc.nl 
-
+Junior Researcher 
+Dept. of Primary and Community Care 
+Radboud University Medical Center (RadboudUMC) 
+📧 dana.rouland@radboudumc.nl  
 
 ---
 
