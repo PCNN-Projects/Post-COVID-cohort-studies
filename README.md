@@ -7,7 +7,7 @@ This repository contains an overview of Dutch post-COVID cohort studies. Metadat
 ## 💡 Notes
 
 - This overview is not the final version, as new studies will be added to the list and certain studies could be removed from the list if deemed not suitable for this overview.
-- The list of cohorts is accompanied with corresponding email addresses that can be contacted for further questions about the study.
+- The list of cohorts is accompanied with corresponding contact information, which can be contacted for further questions about the study. Some studies have a general contact email address, some only include the contact person's name, and most studies include both a name and email address.
 - Not all studies have been specifically designed to study post-COVID. Some studies were conducted to study COVID-19 and have collected longterm data on outcomes, making it possible to extract post-COVID data. These studies are coloured orange. 
 
 ## Legenda
