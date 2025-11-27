@@ -34,4 +34,4 @@ Dept. of Primary and Community Care, Radboud University Medical Center (RadboudU
 
 ---
 
-##  Last updated: September 2025
+##  Last updated: November 2025
